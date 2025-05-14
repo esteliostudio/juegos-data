@@ -1,0 +1,1041 @@
+{
+  "videojuegos": [
+    {
+      "titulo": "Firewatch",
+      "imagen": "/img/firewatch.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "ARK: Survival Evolved",
+      "imagen": "/img/ark.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Paladins",
+      "imagen": "/img/paladins.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "CreativeDestruction",
+      "imagen": "/img/creative.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Ironsight",
+      "imagen": "/img/iron.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "POLYGON",
+      "imagen": "/img/polygon.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Train Station Renovation",
+      "imagen": "/img/train.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Fishing Planet",
+      "imagen": "/img/fishing.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Motorcycle Mechanic Simulator 2021",
+      "imagen": "/img/motorcycle.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Torque Drift",
+      "imagen": "/img/torque.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "3on3 FreeStyle: Rebound",
+      "imagen": "/img/3on3.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Scavengers",
+      "imagen": "/img/scavengers.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Destiny 2",
+      "imagen": "/img/destiny_2.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Prison Simulator",
+      "imagen": "/img/prison.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Sniper Fury",
+      "imagen": "/img/sniper.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Blood Hunt",
+      "imagen": "/img/bloodhunt.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Splitgate",
+      "imagen": "/img/splitgate.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Far Cry 3",
+      "imagen": "/img/farcry3.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "NBA 2K21",
+      "imagen": "/img/nba_21.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Heat Reborn",
+      "imagen": "/img/heat_reborn.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Team Fortress 2",
+      "imagen": "/img/fortress.jpeg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Monopoly Poker",
+      "imagen": "/img/monopoli_poker.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Bro Falls",
+      "imagen": "/img/bro_falls.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "VR Chat",
+      "imagen": "/img/vr_chat.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Dota 2",
+      "imagen": "/img/dota2.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "PUGB Battlegrounds",
+      "imagen": "/img/pubg.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Friday the 13th: The Game",
+      "imagen": "/img/friday.jpeg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Dead Frontier 2",
+      "imagen": "/img/frontier.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Treasure Hunter",
+      "imagen": "/img/treasure.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "The One Who Pulls Out Sword Gets to be King",
+      "imagen": "/img/sword.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Unturned",
+      "imagen": "/img/unturned.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "RaceRoom Racing Experience",
+      "imagen": "/img/raceroom.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "MultiVersus",
+      "imagen": "/img/multiversus.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "The Cycle: Frontier",
+      "imagen": "/img/cycle.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "NBA 2K22",
+      "imagen": "/img/nba_22.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Need For Speed Heat",
+      "imagen": "/img/speed.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Lost Light",
+      "imagen": "/img/lost.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "eFootball",
+      "imagen": "/img/efootball.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "The Sims 4",
+      "imagen": "/img/sims.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "A.V.A Global",
+      "imagen": "/img/ava.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Technicity",
+      "imagen": "/img/tecnicity.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Conqueror's Blade",
+      "imagen": "/img/blade.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Kerbal Space Program",
+      "imagen": "/img/kerbal.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Bully: Scholarship Edition",
+      "imagen": "/img/bully.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Emily is Away",
+      "imagen": "/img/emily.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Lego Harry Potter Years 1-4",
+      "imagen": "/img/harry_1_4.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Lego Harry Potter Years 5-7",
+      "imagen": "/img/harry_5_7.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Dead Island | Definitive Edition",
+      "imagen": "/img/dead_island.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Pineaple on Pizza",
+      "imagen": "/img/pizza.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Golf It",
+      "imagen": "/img/golf.jpeg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "theHunter Classic",
+      "imagen": "/img/hunter.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "PAYDAY 2",
+      "imagen": "/img/pay_day.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Sleeping Dogs: Definitive Edition",
+      "imagen": "/img/sleeping.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Pure Sniper",
+      "imagen": "/img/pure_sniper.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "War Gun",
+      "imagen": "/img/war_gun.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "NARAKA: BLADEPOINT",
+      "imagen": "/img/naraka.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Drug Dealer Simulator",
+      "imagen": "/img/drug.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Sea of Thieves",
+      "imagen": "/img/sea.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Streamer Life Simulator",
+      "imagen": "/img/streamer.jpeg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Pixel Strike 3D",
+      "imagen": "/img/pixel.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Caliber",
+      "imagen": "/img/caliber.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Food Truck Simulator",
+      "imagen": "/img/food.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Banana Shooter",
+      "imagen": "/img/banana.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Phasmophobia",
+      "imagen": "/img/phasmophobia.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Lost Ark",
+      "imagen": "/img/lost.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "The Finals",
+      "imagen": "/img/finals.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Lethal Company",
+      "imagen": "/img/lethal.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Game Dev Tycoon",
+      "imagen": "/img/game.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Internet Cafe Simulator 2",
+      "imagen": "/img/internet.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "NBA 2K23",
+      "imagen": "/img/nba_23.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Project Zomboid",
+      "imagen": "/img/zomboid.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "DayZ",
+      "imagen": "/img/dayz.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Disney SpeedStorm",
+      "imagen": "/img/disney.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Euro Truck Simulator 2",
+      "imagen": "/img/euro_truck.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Asseto Corsa",
+      "imagen": "/img/assetto.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Sheepy: A short Adventure",
+      "imagen": "/img/sheepy.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Dark and Darker",
+      "imagen": "/img/dark.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Content Warning",
+      "imagen": "/img/content.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Papers, Please",
+      "imagen": "/img/papers.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Warzone",
+      "imagen": "/img/warzone.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Terroro",
+      "imagen": "/img/terroro.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Dead Island 2",
+      "imagen": "/img/dead_island_2.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Mr.Mine",
+      "imagen": "/img/mine.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Counter Strike: Global Offensive",
+      "imagen": "/img/counter.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Gas Station Simulator",
+      "imagen": "/img/gas.jpeg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "AO Tennis 2",
+      "imagen": "/img/ao.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Placid Plastic Duck Simulator",
+      "imagen": "/img/placid.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Marvel Rivals",
+      "imagen": "/img/marvels.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Taxi Life: A City Driving Simulator",
+      "imagen": "/img/taxi.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Ready or Not",
+      "imagen": "/img/ready.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "The Forest",
+      "imagen": "/img/forest.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Raft",
+      "imagen": "/img/raft.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Arcade Paradise",
+      "imagen": "/img/arcade.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Muck",
+      "imagen": "/img/muck.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "StarDew Valley",
+      "imagen": "/img/valley.924253ef-36b2-4cc0-8bb1-9a97c88d4828",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Krunker",
+      "imagen": "/img/krunker.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "House Flipper 2",
+      "imagen": "/img/flipper.png",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "TCG Card Shop Simulator",
+      "imagen": "/img/card.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Libritopia",
+      "imagen": "/img/libritopia.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Rust",
+      "imagen": "/img/rust.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Rooftops and Alleys",
+      "imagen": "/img/alleys.webp",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Moonlighter",
+      "imagen": "/img/moonlighter.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "TopSpin 2K25",
+      "imagen": "/img/top.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Balatro",
+      "imagen": "/img/balatro.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Tiny Bookshop",
+      "imagen": "/img/bookshop.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "NBA 2K25",
+      "imagen": "/img/nba_25.jpg",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Hogwarts Legacy",
+      "imagen": "/img/hogwarts.avif",
+      "plataforma": "PC",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "UFC 4 Deluxe Edition",
+      "imagen": "/img/ufc.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "The Last Of Us Remastered",
+      "imagen": "/img/tlou_remastered.webp",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "The Last of Us Part II",
+      "imagen": "/img/tlou_II.avif",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Fall Guys",
+      "imagen": "/img/fall.avif",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Big City Stories",
+      "imagen": "/img/city.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Capcom Arcade Stadium",
+      "imagen": "/img/stadium.webp",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Vigor",
+      "imagen": "/img/vigor.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Splitgate",
+      "imagen": "/img/splitgate.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Guns Up!",
+      "imagen": "/img/guns.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Genshin Impact",
+      "imagen": "/img/genshin.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Fishing Planet",
+      "imagen": "/img/fishing_planet.png",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Rocket League",
+      "imagen": "/img/rocket.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Destiny 2",
+      "imagen": "/img/destiny_2.webp",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "HYPER SCAPE",
+      "imagen": "/img/hyper.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Call Of Duty: Modern Warfare",
+      "imagen": "/img/warfare.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Apex Legends",
+      "imagen": "/img/apex.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Realm Royale",
+      "imagen": "/img/realm.avif",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Call Of Duty: Black Ops 4",
+      "imagen": "/img/black_4.avif",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Fallout Shelter",
+      "imagen": "/img/shelter.webp",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "H1Z1:Battle Royale",
+      "imagen": "/img/h1z1.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Sleeping Dogs: Definitive Edition",
+      "imagen": "/img/sleeping.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Fortnite",
+      "imagen": "/img/fortnite.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Destiny",
+      "imagen": "/img/destiny.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Paladins",
+      "imagen": "/img/paladins.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Call of Duty: Infinite Warfare",
+      "imagen": "/img/infinite.avif",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Warframe",
+      "imagen": "/img/warframe.png",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Battlefield 4",
+      "imagen": "/img/battlefield.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+    {
+      "titulo": "Loadout",
+      "imagen": "/img/loadout.jpg",
+      "plataforma": "PS4",
+      "genero": "Aventura",
+      "estado": "jugado"
+    },
+
+    {
+      "titulo": "MURDERED: Soul Suspect",
+      "imagen": "/img/murdered.avif",
+      "plataforma": "PC",
+      "genero": "Acción",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Metro: Last Light | Complete Edition",
+      "imagen": "/img/metro.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Metro 2033 Redux",
+      "imagen": "/img/2033.avif",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "LET IT DIE",
+      "imagen": "/img/letitdie.png",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "HUE",
+      "imagen": "/img/hue.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Dead Island Riptide | Definitive Edition",
+      "imagen": "/img/riptide.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Bus Drivng Sim 22",
+      "imagen": "/img/bus.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Batman Arkham Knight",
+      "imagen": "/img/batman.webp",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Batman Arkham City | Game of the Year Edition",
+      "imagen": "/img/batman2.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Batman Arkham Asylum | Game of the Year Edition",
+      "imagen": "/img/batman3.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Cry of Fear",
+      "imagen": "/img/cry.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Fallout 4",
+      "imagen": "/img/fallout.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "We Happy Few",
+      "imagen": "/img/happy.jpg",
+      "plataforma": "PC",
+      "genero": "Metroidvania",
+      "estado": "pendiente"
+    }
+  ]
+}
