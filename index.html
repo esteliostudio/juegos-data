@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gestor de Videojuegos</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#222">
+<link rel="icon" href="icons/icon-192.png">
+
+</head>
+<body>
+
+  <header>
+      <h1>Mi Colección de Videojuegos</h1>
+  <button id="exportar">📤 Exportar JSON</button>
+  <input type="file" id="importar" accept=".json" hidden>
+</header>
+
+<main>
+<h2>🎮 Jugados</h2>
+<div id="lista-jugado"></div>
+
+<h2>🕹️ Pendientes</h2>
+<div id="lista-pendiente"></div>
+
+<h2>🛒 Para Comprar</h2>
+<div id="lista-comprar"></div>
+</main>
+
+<footer>
+  <p><strong>Juegos Jugados:</strong> <span id="jugados"></span></p>
+  <p><strong>Juegos Pendientes:</strong> <span id="pendientes"></span></p>
+  <p><strong>Juegos Para Comprar:</strong> <span id="comprar"></span></p>
+</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
