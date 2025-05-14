@@ -2,7 +2,7 @@
   "videojuegos": [
     {
       "titulo": "Firewatch",
-      "imagen": "/img/firewatch.webp",
+      "imagen": "img/firewatch.webp",
       "plataforma": "PC",
       "genero": "Aventura",
       "estado": "jugado"
